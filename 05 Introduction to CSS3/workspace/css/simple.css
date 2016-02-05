@@ -16,6 +16,6 @@ ul,ol{font-size: 100%;
 .borderlist
 {
     border: 3pt solid grey;
-    color: #202020 ;
+    color: #484848;
     list-style-position: inside;
 }
