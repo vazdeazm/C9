@@ -1,9 +1,21 @@
 body {
     font-family: Arial, Verdana, sans-serif;
+    background-color: lightblue;
 }
 
-h1,
-h2 {
-    color: blue;
+h1,h2 {
+    color: red;
+    font-size: 2.0em;
     font-weight: bold;
+}
+
+ul,ol{font-size: 100%;
+    
+}
+
+.borderlist
+{
+    border: 3pt solid grey;
+    color: #202020 ;
+    list-style-position: inside;
 }
