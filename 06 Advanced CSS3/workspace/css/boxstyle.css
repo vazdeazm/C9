@@ -1,0 +1,31 @@
+.one {
+    border: 6px solid black;
+    padding: 0em;
+    margin: 5em;
+    margin-top: 0em;
+}
+
+.two {
+    border: 6px solid red;
+    padding: 0em;
+    margin: 5em;
+    margin-top: 0em;
+}
+
+.three {
+    border: 3px solid blue;
+    padding: 0em;
+    padding-top: 0em;
+    border-bottom: 0em;
+    border-right: 0em;
+    border-top: 0em;
+    margin-bottom: 8em;
+    margin-top: 2em;
+    
+}
+
+.four {
+    border: 2px dashed;
+    border-radius: 10px;
+    border-color: green;
+}
